@@ -3,7 +3,7 @@
 
 ## Why this repo exists
 
-I'm working towards bridging the gap between man and machine for memory, blindess, and deafness in healthcare. This repo serves to show what a transcript may not - real work.
+I'm working towards bridging the gap between man and machine for memory, blindness, and deafness in healthcare. This repo serves to show what a transcript may not - real work.
 
 This is meant to be a simple log of what I'm doing and thinking.
 
